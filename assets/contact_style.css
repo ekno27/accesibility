@@ -1,0 +1,29 @@
+#info{
+    margin-top:8%;
+}
+#card{
+    border-radius: 25px;
+    border: 2px solid lightgray;
+    padding: 40px; 
+    
+}
+
+#gen-info{
+    text-align: center;
+    margin-bottom: 5px;
+}
+h1{
+    font-size: 2rem;
+    text-align: center
+}
+section{
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

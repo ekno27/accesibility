@@ -1,0 +1,18 @@
+#about-image {
+    /* Positioning */
+    float: left;
+    border-radius: 6px;
+    width: 50%;
+    margin: 0 20px 10px 0;
+  }
+
+#content{
+    margin-top: 10%;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
